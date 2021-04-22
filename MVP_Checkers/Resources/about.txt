@@ -1,0 +1,20 @@
+﻿Game created by:Tupea Andrei-Cristian
+Student at "Transylvania University of Brasov"
+In second year group 10LF-294
+
+Game-Features:
+-simple jump
+-save-load(99% completed)
+-double-jump(99% completed)
+-Regular-King piece Type
+-played on one computer
+
+Game-Rules
+-red player starts first all the time
+-moves can be done only diagonally
+-if one piece gets to the other side becomes King, can move opposite ways as well
+-if you take a piece on a move, posibility for second jump occurs
+
+Obs:
+-sprites downloaded from internet
+-game created for university assigment
